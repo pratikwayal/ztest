@@ -17,3 +17,4 @@ public class addfund {
 }
 //a[@target='_blank'])[1]    //a[text()='Add funds']
 ////a[text()='Activate segment']
+// hello
